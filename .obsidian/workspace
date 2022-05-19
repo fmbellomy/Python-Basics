@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a2b058ff394c9a1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7b6d7fcbb94d132",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Control Flow/Functions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a29edaf9fe457679",
+    "type": "split",
+    "children": [
+      {
+        "id": "269dc8941ecc287b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10732b8a7d3f70e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3b5dc423457c873",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "right": {
+    "id": "081a48dd5ff33f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f23cfb161dae6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa940b3debc2657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Control Flow/Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7b6d7fcbb94d132",
+  "lastOpenFiles": [
+    "Control Flow/Functions.md",
+    "Other/Importing Modules.md",
+    "Inputs and Outputs/Printing to the Console.md",
+    "Inputs and Outputs/Read User Input from the Console.md",
+    "Handling Data/Variables.md",
+    "Handling Data/Types of Data.md",
+    "Handling Data/Lists.md",
+    "Control Flow/Loops.md",
+    "Control Flow/If This, Then That.md",
+    "recommended order of files.md"
+  ]
+}
