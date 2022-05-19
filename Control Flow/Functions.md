@@ -55,4 +55,4 @@ print(distance(p2,p3))
 # same thing here.
 ```
 
-Imagine having to write that entire distance function out over and over again. Nah man. That's a big part of what makes functions appealing, they provide a way to avoid retyping the same code over and over again.
+Imagine having to write that entire distance function out over and over again... Agony. That's a big part of what makes functions appealing, they provide a way to avoid retyping the same code over and over again.

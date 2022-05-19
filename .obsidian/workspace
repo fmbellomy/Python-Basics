@@ -90,14 +90,14 @@
   "active": "d7b6d7fcbb94d132",
   "lastOpenFiles": [
     "Control Flow/Functions.md",
+    "Control Flow/If This, Then That.md",
+    "Control Flow/Loops.md",
     "Other/Importing Modules.md",
-    "Inputs and Outputs/Printing to the Console.md",
     "Inputs and Outputs/Read User Input from the Console.md",
+    "Inputs and Outputs/Printing to the Console.md",
     "Handling Data/Variables.md",
     "Handling Data/Types of Data.md",
     "Handling Data/Lists.md",
-    "Control Flow/Loops.md",
-    "Control Flow/If This, Then That.md",
     "recommended order of files.md"
   ]
 }
