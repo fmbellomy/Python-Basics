@@ -10,7 +10,7 @@ def print_three_blank_lines():
 
 print("the program has started")
 print_three_blank_lines()
-print("there are three blank lines there now")
+print("there are three blank lines between this message and the last one!")
 ```
 
 That's not a very useful function though, so maybe you want a function that *takes in* values, and *returns* a value as a result?
