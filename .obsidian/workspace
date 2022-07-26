@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/Importing Modules.md",
+            "file": "Handling Data/Classes and OOP/Inheritance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Importing Modules.md",
+                "file": "Handling Data/Classes and OOP/Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d7b6d7fcbb94d132",
   "lastOpenFiles": [
-    "Table of Contents.md",
-    "Operators and Math/Math Operators.md",
-    "Operators and Math/Compound Assignment.md",
+    "Handling Data/Classes and OOP/Class.md",
+    "Handling Data/Classes and OOP/Inheritance.md",
     "Handling Data/iterables/Iterable.md",
-    "Handling Data/Variables.md",
-    "Handling Data/iterables/Lists.md",
-    "Control Flow/Loops.md",
+    "Inputs and Outputs/Printing to the Console.md",
+    "Handling Data/Types of Data.md",
     "Handling Data/iterables/Dictionaries.md",
-    "Control Flow/If This, Then That.md",
-    "Control Flow/Functions.md"
+    "Control Flow/Loops.md",
+    "Other/Importing Modules.md",
+    "Table of Contents.md",
+    "Operators and Math/Math Operators.md"
   ]
 }
