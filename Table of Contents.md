@@ -5,16 +5,19 @@
 ### Handling Data
 3. [[Variables]]
 4. [[Types of Data]]
+	#### Classes and OOP
+	5. [[Class]]
+	6. [[Inheritance]]
 	#### Iterables
-	5. [[Lists]]
-	6. [[Dictionaries]]
-	7. [[Iterable]]
+	7. [[Lists]]
+	8. [[Dictionaries]]
+	9. [[Iterable]]
 ### Control Flow
-8. [[If This, Then That]]
-9. [[Loops]]
-10. [[Functions]]
+10. [[If This, Then That]]
+11. [[Loops]]
+12. [[Functions]]
 ### Operators and Math
-11. [[Math Operators]]
-12. [[Compound Assignment]]
+13. [[Math Operators]]
+14. [[Compound Assignment]]
 ### Other
-13. [[Importing Modules]]
+15. [[Importing Modules]]
