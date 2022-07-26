@@ -47,14 +47,25 @@ print(x + 20)
 This program will not work as expected.
 ```bash
 enter a number: 5
-520
+
+Traceback (most recent call last):
+File "/home/username/script.py",
+line 2, in <module>
+	print(x + 20)
+TypeError: can only concatenate str (not "int") to str
 ```
-The `input()` function returns a `string`, no matter what. It's up to you to then *convert* that string into the data type you really want, which is an integer, or int.
+The `input()` function returns as `str`, no matter what. It's up to you to then *convert* that string into the data type you really want, which is an integer, or *int.*
 Python provides functions that do this for you, and it's called ***Type Casting***
-Here is the same code but using Type Casting.
+Here is the same code with Type Casting.
 ```python
 x_as_string = input("enter a number:")
 x = int(x_as_string)
-print(int(x) + 20)
+print(x + 20)
 ```
 Now we get the expected results, because we're adding two numbers together instead of adding a number on to the end of a string.
+```bash
+enter a number: 5
+25
+```
+
+*[[Table of Contents|back to table of contents]]*

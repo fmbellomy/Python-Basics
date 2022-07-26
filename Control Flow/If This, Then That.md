@@ -1,5 +1,5 @@
 # If this, then that
-If statements provide a way of executing code only if a certain *condition* is met.
+`If` statements provide a way of executing code only if a certain *condition* is met.
 ```python
 if(100 > 8):
 	print("100 is greater than 8, that's good.")
@@ -12,7 +12,7 @@ if(len(name) > 32):
 ```
 
 # Else, do this
-If statements can be *extended* through the use of ***else*** statements, which will *only* execute if the previous if statement didn't run.
+If statements can be *extended* through the use of `else` statements, which will *only* execute if the previous `if` statement didn't run.
 
 ```python
 if(100 > 8):
@@ -28,10 +28,9 @@ if(100 > 8):
 if(100 <= 8):
 	print("WHAT HOW")
 ```
-The ***else*** statement provides a way to run code *only if* the previous ***if*** statement didn't run.
 
 # Elif, and branch chaining.
-This is something you will sometimes find yourself needing to do. Maybe there's more than just 2 branches of code you need? In that case, you can use the ***elif*** statement, which allows you to chain as many if statements in a row as you like.
+This is something you will sometimes find yourself needing to do. Maybe there's more than just 2 branches of code you need? In that case, you can use the `elif` statement, which allows you to chain as many if statements in a row as you like.
 
 ```python
 name = input("what's your name")
@@ -48,3 +47,5 @@ elif(name is "you"):
 else:
 	print("yeah i don't know who you are, sorry.")
 ```
+Keep in mind, usually if you need to write `elif` more than 3 or 4 times, you're probably doing something wrong and should reconsider your solution.  
+*[[Table of Contents|back to table of contents]]*

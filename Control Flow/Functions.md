@@ -17,6 +17,8 @@ That's not a very useful function though, so maybe you want a function that *tak
 Maybe just a function that adds two numbers?
 
 ## Parameters and Return Values
+(NOTE: To clarify, *parameters* and *arguments* refer to the same thing. They both mean "inputs to a function")
+
 ```python
 def add(x, y):
 	return x + y
@@ -56,3 +58,5 @@ print(distance(p2,p3))
 ```
 
 Imagine having to write that entire distance function out over and over again... Agony. That's a big part of what makes functions appealing, they provide a way to avoid retyping the same code over and over again.
+
+*[[Table of Contents|back to table of contents]]*

@@ -29,3 +29,5 @@ The same effect can be achieved by using the `+` operator to add or *concatenate
 print("This " + "is " + "also " + "a way " + "to do this.")
 ```
 Unlike passing every string as an individual argument, string concatenation does *not* automatically put spaces in between your strings, so you have to add them yourself.
+
+*[[Table of Contents|back to table of contents]]*

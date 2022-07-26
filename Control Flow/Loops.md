@@ -5,7 +5,7 @@ Here's a simple loop that prints "HELLO" a hundred times.
 for i in range(100):
 	print("HELLO")
 ```
-You also can use that *i* variable in the loop, however, if you want to know which iteration you're in.
+You also can use that newly created `i` variable in the loop, however, if you want to know which iteration you're in.
 ```python
 for i in range(100):
 	my_function(i)
@@ -16,3 +16,7 @@ names = ["Todd", "Jeremy", "Christie", "Cameron"]
 for i in names:
 	print("heyo " + i)
 ```
+
+If you want to learn more about `for` loops, consider checking out the [[Iterable]] page. If it goes over your head, don't worry about it and come back to it later.
+
+*[[Table of Contents|back to table of contents]]*

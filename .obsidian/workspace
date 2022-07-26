@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Control Flow/Functions.md",
+            "file": "Other/Importing Modules.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Flow/Functions.md",
+                "file": "Other/Importing Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d7b6d7fcbb94d132",
   "lastOpenFiles": [
-    "Control Flow/Functions.md",
-    "Control Flow/If This, Then That.md",
-    "Control Flow/Loops.md",
-    "Other/Importing Modules.md",
-    "Inputs and Outputs/Read User Input from the Console.md",
-    "Inputs and Outputs/Printing to the Console.md",
+    "Table of Contents.md",
+    "Operators and Math/Math Operators.md",
+    "Operators and Math/Compound Assignment.md",
+    "Handling Data/iterables/Iterable.md",
     "Handling Data/Variables.md",
-    "Handling Data/Types of Data.md",
-    "Handling Data/Lists.md",
-    "recommended order of files.md"
+    "Handling Data/iterables/Lists.md",
+    "Control Flow/Loops.md",
+    "Handling Data/iterables/Dictionaries.md",
+    "Control Flow/If This, Then That.md",
+    "Control Flow/Functions.md"
   ]
 }

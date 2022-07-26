@@ -10,7 +10,7 @@ x = [10,20,30,40]
 #    0, 1, 2, 3
 third_element = x[2]
 ```
-Take note of this! Lists start counting at `0`. The first element of a list will *always* be its 0th element.
+Take note of this! Lists start counting at `0`.  The first element of a list will *always* be its 0th element.
 
 To [[Loops|loop]] over the contents of a list, you can use this notation.
 
@@ -21,3 +21,5 @@ for i in numlist:
 		print(i)
 # will print 1,-4, 0, and 1 
 ```
+
+*[[Table of Contents|back to table of contents]]*

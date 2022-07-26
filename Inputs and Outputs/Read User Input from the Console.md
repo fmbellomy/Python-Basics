@@ -15,3 +15,5 @@ z = input()
 
 ### A problem you will probably encounter.
 If you run into issues with data obtained from `input()` it probably means that your data is of the wrong [[Types of Data|type.]] See [[Types of Data#How to change data from one type to another|How to change data from one type to another]].
+
+*[[Table of Contents|back to table of contents]]*
